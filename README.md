@@ -7,7 +7,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 - 🎓 5th-year Information Security engineering student at **FSTG, Université Cadi Ayyad (Marrakech)**
 - 🔎 Focused on **threat detection, SOC operations, incident response and cloud security**
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔨 SentinelForge — DevSecOps factory & automated response
 Cloud-native secure software factory protecting a demo application.
@@ -31,18 +31,18 @@ Cloud-native secure software factory protecting a demo application.
 ### 🏢 Hybrid Enterprise SOC — Active Directory to Azure / Entra ID
 Full attack chain from a compromised Windows host to the cloud identity: credential abuse, lateral movement, privilege escalation. Logs in Splunk and Microsoft Sentinel, correlation, MITRE-mapped detections and automated response.
 
-### 🍯 Azure Honeynet & Microsoft Sentinel
+###  Azure Honeynet & Microsoft Sentinel
 Exposed honeynet to observe real attacks, Windows and Linux logs centralized in Log Analytics, metrics measured before and after hardening.
 
-### 🏰 Active Directory — Attack & Defense Lab
+###  Active Directory — Attack & Defense Lab
 Kerberoasting, Pass the Hash, DCSync, attack paths with BloodHound, and GPO countermeasures.
 
-### 🌐 Secure Enterprise Architecture
+###  Secure Enterprise Architecture
 Network audit, pfSense, OpenVPN and IDS/IPS rule validation with Suricata.
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **SOC & Detection**
 
@@ -112,7 +112,7 @@ ENSI CTF 2026 (**Top 50 / 507 teams**) · Academia Cyber Compétition 2026 · ST
 
 ---
 
-## 🌐 Contact
+##  Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/houssam-zouheir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -120,7 +120,7 @@ ENSI CTF 2026 (**Top 50 / 507 teams**) · Academia Cyber Compétition 2026 · ST
   <a href="https://tryhackme.com/p/YOUR_THM"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
 
-🗣️ Arabic (native) · French (DELF B2) · English (B2)
+ Arabic (native) · French (DELF B2) · English (B2)
 
 ---
 
