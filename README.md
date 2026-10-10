@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Houssam Zouheir</h1>
-<h3 align="center">Information Security Engineering Student 🛡️</h3>
+<h3 align="center">Information Security Engineering Student </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=SOC+%7C+Detection+%26+Incident+Response;Cloud+Security+%7C+DevSecOps;Purple+Team+%7C+MITRE+ATT%26CK;Looking+for+a+6-month+PFE+internship" alt="Typing SVG" />
